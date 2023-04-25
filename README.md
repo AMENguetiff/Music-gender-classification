@@ -1,5 +1,5 @@
 
-## Music Genre Classification Project
+## Music Classification Project
 
 This project aims to build a machine learning model that can accurately classify music tracks into different genres. The model is trained on a dataset of audio features extracted from various music tracks.
 ### Dataset
